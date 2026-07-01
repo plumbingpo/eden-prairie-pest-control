@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edenprairiepestcontrolco.com/sitemap.xml
